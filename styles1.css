@@ -1,0 +1,30 @@
+body 	{font-family: Arial, Verdana, Garamond;
+		font-size: 12 pt}
+
+p		{margin-left: 50pt;
+		margin-right: 50 pt}
+
+a 		{text-decoration: none;
+		color: black}
+		
+table 	{width: 65%;
+		margin-left:auto;
+		margin-right:auto}
+		
+		.menu	{text-align: center;
+				width: 60%}
+		
+		.menuword	{width: 23%} 
+		
+		.menuwordselect	{width: 23%; font-weight: bolder; font-style:
+						italic}
+		.menupipe {width: 1%}
+		
+	th	{color: white;
+		background-color: #ff1828}
+		
+	tr	{color: white;
+		background-color: white}
+		
+	caption	{caption-side: bottom;
+			font style: italic}
